@@ -66,4 +66,12 @@ Thanks to all
 
 * [Free Assetments](http://www.canadavisa.com/ielts/free-practice-tests.html) All kind of resources for studying
 
+* [Self Study Materials](http://selfstudymaterials.com/) All kind of resources for studying
+
 * [Dialect Blog](http://dialectblog.com/)
+
+## Youtube Channels
+
+* [IELTS Liz](https://www.youtube.com/user/ieltsliz) All kind of resources for studying
+
+* [IELTS Official](https://www.youtube.com/user/IELTSOfficial) Tips and tricks for preparation
