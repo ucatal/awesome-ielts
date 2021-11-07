@@ -47,6 +47,10 @@ Thanks to all
 
 * [IELTS Up Writing](http://ielts-up.com/exercises/ielts-writing-exercises.html)
 
+* [IELTS from 6 to 9](https://ielts69.com/)
+
+* [Mini IELTS](http://mini-ielts.com/)
+
 ## Speaking
 
 * [Verbling](https://www.verbling.com/) For english tutor online
