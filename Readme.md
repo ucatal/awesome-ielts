@@ -60,6 +60,8 @@ Thanks to all
 * [GetspokenApp](http://www.getspokenapp.com/) Practice english with  Coach
 
 * [IELTS Speaking Co UK]( http://www.ieltsspeaking.co.uk/) Speaking exercise with vocabulary flashcards
+  
+* [SpeakingIELTS.com]( http://www.speakingielts.com/) Online simulator for speaking practice
 
 ## Vocabulary
 
