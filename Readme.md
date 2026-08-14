@@ -51,6 +51,8 @@ Thanks to all
 
 * [Mini IELTS](http://mini-ielts.com/)
 
+* [IELTS Writing Checker](https://ieltswritingchecker.org/) - Criterion feedback and revision guidance for Academic Task 1, General Training Task 1, and Task 2 writing.
+
 ## Speaking
 
 * [Verbling](https://www.verbling.com/) For english tutor online
