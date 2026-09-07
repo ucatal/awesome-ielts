@@ -45,6 +45,8 @@ Thanks to all
 
 ## Writing
 
+* [IELTS Writing Practice](https://ieltswritingpractice.app/) - Free question bank and timed practice for IELTS Task 1 and Task 2; AI scoring and detailed feedback require a paid plan.
+
 * [IELTS Up Writing](http://ielts-up.com/exercises/ielts-writing-exercises.html)
 
 * [IELTS from 6 to 9](https://ielts69.com/)
