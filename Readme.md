@@ -39,9 +39,13 @@ Thanks to all
 
 * [British Council Listening](http://takeielts.britishcouncil.org/prepare-your-test/free-ielts-practice-tests/listening-practice-test-1?utm_source=futurelearn&utm_medium=listening_link&utm_content=week-3&utm_campaign=ieltsmooc4-2016)
 
+* [IELTS Listening Paraphrase](https://shelfom.github.io/ielts-listening-paraphrase/) - Hear the tested words from Cambridge IELTS 11–20 and pick their paraphrases by ear, with British audio. Free, open source
+
 ## Reading
 
 * [IELTS Up Reading](http://ielts-up.com/reading/ielts-reading-test.html)
+
+* [IELTS Reading Paraphrase](https://shelfom.github.io/ielts-reading-paraphrase/) - Match question wording to passage wording across 120 Cambridge IELTS passages. Free, open source
 
 ## Writing
 
@@ -50,6 +54,10 @@ Thanks to all
 * [IELTS from 6 to 9](https://ielts69.com/)
 
 * [Mini IELTS](http://mini-ielts.com/)
+
+* [IELTS Sentence Repair](https://shelfom.github.io/ielts-sentence-repair/) - Correct 195 sentences with common IELTS writing errors. Free, open source
+
+* [IELTS Writing Band 6 to 8](https://shelfom.github.io/ielts-writing-band-6-to-8/) - Rewrite 561 Band 6 sentences at Band 8 and compare. Free, open source
 
 ## Speaking
 
@@ -63,11 +71,15 @@ Thanks to all
   
 * [SpeakingIELTS.com]( http://www.speakingielts.com/) Online simulator for speaking practice
 
+* [IELTS Speaking Mock Test](https://ielts-speaking-mock.coze.site/) - Full Part 1–3 mock test with a British AI examiner and a four-criterion band estimate. Free, no sign-up
+
 ## Vocabulary
 
 * [Quizlet](https://quizlet.com) - It's best for learning words easily(Android) (IOS)
 
 * [Forvo](http://forvo.com/)-It's a very good dictionary for pronanciation
+
+* [AWL 570 Flashcards](https://shelfom.github.io/awl-570-flashcards/) - All 570 Academic Word List headwords with UK/US audio, definitions, collocations and examples. Free, open source
 
 ## Others
 
