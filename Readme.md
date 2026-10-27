@@ -97,6 +97,8 @@ Thanks to all
 
 * [Fast Reading](https://www.huffingtonpost.com/tim-ferriss/speed-reading_b_5317784.html)
 
+* [CELPIP to IELTS](https://celpiptest.org/learn/celpip-to-ielts) - Free chart from CELPIP-General to IELTS using the IRCC CLB table. Not affiliated with Paragon or IELTS.
+
 ## Youtube Channels
 
 * [IELTS Liz](https://www.youtube.com/user/ieltsliz) All kind of resources for studying
