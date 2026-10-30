@@ -54,7 +54,6 @@ Thanks to all
 ## Speaking
 
 * [Verbling](https://www.verbling.com/) For english tutor online
-
 * [Cambly](https://www.cambly.com/) For daily speaking practice
 
 * [GetspokenApp](http://www.getspokenapp.com/) Practice english with  Coach
@@ -68,6 +67,8 @@ Thanks to all
 * [Quizlet](https://quizlet.com) - It's best for learning words easily(Android) (IOS)
 
 * [Forvo](http://forvo.com/)-It's a very good dictionary for pronanciation
+* [WordHub](https://wordhub.top) - Vocabulary learning platform with etymology-based explanations, spaced repetition, and in-context reading
+* 
 
 ## Others
 
