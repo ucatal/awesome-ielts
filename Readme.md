@@ -64,6 +64,7 @@ Thanks to all
 
 ## Vocabulary
 
+* [VocaFlare Word Lists](https://vocaflare.com/en/english/words) - Free English word lists by CEFR level (A1 to C2) with meanings and example sentences, downloadable as PDF
 * [Quizlet](https://quizlet.com) - It's best for learning words easily(Android) (IOS)
 
 * [Forvo](http://forvo.com/)-It's a very good dictionary for pronanciation
