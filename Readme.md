@@ -53,6 +53,7 @@ Thanks to all
 
 ## Speaking
 
+* [VocaFlare AI](https://vocaflare.com/en/ai) Speaking practice app (iOS, Android): voice chat with AI tutors, with corrections on grammar and word choice
 * [Verbling](https://www.verbling.com/) For english tutor online
 * [Cambly](https://www.cambly.com/) For daily speaking practice
 
