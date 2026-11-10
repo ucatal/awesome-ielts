@@ -51,6 +51,8 @@ Thanks to all
 
 * [Mini IELTS](http://mini-ielts.com/)
 
+* [Band Score Checker](https://bandscorechecker.com/) - Free AI band scores for IELTS Writing Task 1 and Task 2 on all four criteria (1 check a day without an account; paid plan adds full corrections)
+
 ## Speaking
 
 * [Verbling](https://www.verbling.com/) For english tutor online
