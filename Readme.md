@@ -62,6 +62,8 @@ Thanks to all
   
 * [SpeakingIELTS.com]( http://www.speakingielts.com/) Online simulator for speaking practice
 
+* [Ashore IELTS Speaking Questions](https://tryashore.com/ielts/speaking/questions/2026-september-december) Free Sep-Dec 2026 question bank and Part 2 cue cards, no sign-up; also a free [band calculator](https://tryashore.com/ielts/band-calculator)
+
 ## Vocabulary
 
 * [Quizlet](https://quizlet.com) - It's best for learning words easily(Android) (IOS)
