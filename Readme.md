@@ -90,6 +90,8 @@ Thanks to all
 
 * [Self Study Materials](http://selfstudymaterials.com/) All kind of resources for studying
 
+* [IELTS Prep](https://github.com/Luxshan2000/ielts-prep) - Free, open-source app with timed practice tests for all four skills and a speaking examiner you talk to. Can run fully on-device with local models.
+
 * [Dialect Blog](http://dialectblog.com/)
 
 * [IELTS Online Tests](https://ieltsonlinetests.com/) IELTS exams paper ONLINE completely
