@@ -98,6 +98,8 @@ Thanks to all
 
 * [Fast Reading](https://www.huffingtonpost.com/tim-ferriss/speed-reading_b_5317784.html)
 
+* [Cathoven](https://www.cathoven.com/) - AI band-score feedback for IELTS Writing and Speaking (paid: subscription or pay-per-day)
+
 ## Youtube Channels
 
 * [IELTS Liz](https://www.youtube.com/user/ieltsliz) All kind of resources for studying
