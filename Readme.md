@@ -62,6 +62,8 @@ Thanks to all
   
 * [SpeakingIELTS.com]( http://www.speakingielts.com/) Online simulator for speaking practice
 
+* [Kahoyo](https://kahoyo.com/?ref=gh-awesome-ielts) Mock IELTS Speaking test with an AI examiner who asks the questions out loud; Part 1 is free, no account
+
 ## Vocabulary
 
 * [Quizlet](https://quizlet.com) - It's best for learning words easily(Android) (IOS)
