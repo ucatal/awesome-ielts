@@ -51,6 +51,8 @@ Thanks to all
 
 * [Mini IELTS](http://mini-ielts.com/)
 
+* [BandCheck](https://bandcheck.app/) Free AI band estimate for Task 1 and Task 2 essays, with a band for each official criterion
+
 ## Speaking
 
 * [Verbling](https://www.verbling.com/) For english tutor online
