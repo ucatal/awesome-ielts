@@ -37,6 +37,8 @@ Thanks to all
 
 * [BBC Podcasts](http://learnenglish.britishcouncil.org/en/listen-and-watch)
 
+* [GetYouTubeTranscript](https://getyoutubetranscript.com/) -Timestamped transcript of any YouTube lecture or talk, to check your answers after dictation or listening practice
+
 * [British Council Listening](http://takeielts.britishcouncil.org/prepare-your-test/free-ielts-practice-tests/listening-practice-test-1?utm_source=futurelearn&utm_medium=listening_link&utm_content=week-3&utm_campaign=ieltsmooc4-2016)
 
 ## Reading
