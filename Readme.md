@@ -62,6 +62,8 @@ Thanks to all
   
 * [SpeakingIELTS.com]( http://www.speakingielts.com/) Online simulator for speaking practice
 
+* [WitSpeak]( https://witspeak.ai/ielts-speaking) IELTS-style speaking practice with an AI examiner (practice estimates, not official scores)
+
 ## Vocabulary
 
 * [Quizlet](https://quizlet.com) - It's best for learning words easily(Android) (IOS)
