@@ -97,6 +97,7 @@ Thanks to all
 * [IELTS-exam.net](https://www.ielts-exam.net/) All kind of resources for studying on IELTS
 
 * [Fast Reading](https://www.huffingtonpost.com/tim-ferriss/speed-reading_b_5317784.html)
+* [OpenExam Hub](https://openexamhub.org) - Free study planner that turns official IELTS and other language-exam materials into a day-by-day plan, plus a CLB/NCLC converter.
 
 ## Youtube Channels
 
